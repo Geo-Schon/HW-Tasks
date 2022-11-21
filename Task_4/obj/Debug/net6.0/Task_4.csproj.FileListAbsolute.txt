@@ -3,3 +3,13 @@ C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.Generat
 C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
 C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
 C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\refint\Task_4.dll
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
+C:\Users\Я\Desktop\IT_Education\C#_HW\HW\Task_4\obj\Debug\net6.0\ref\Task_4.dll

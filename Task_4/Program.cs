@@ -7,18 +7,18 @@ int numС = Convert.ToInt32(Console.ReadLine());
     
     if (numA > numB)
     {
-        if (numA > numC)
+        if (numA > numС)
         {
             Console.WriteLine("Первое число максимальное");
         }
         else
         {
-            Console.WriteLine("Второе число максимальное");
+            Console.WriteLine("Третье число максимальное");
         }
     }
     else 
     {
-        if (numB > numC)
+        if (numB > numС)
         {
             Console.WriteLine("Второе число максимальное");
         }
