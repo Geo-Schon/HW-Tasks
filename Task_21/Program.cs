@@ -21,4 +21,4 @@ double Answer (double x1, double x2,
 
 double LineLength =  Math.Round (Answer(x1, x2, y1, y2, z1, z2), 2 );
 
-Console.WriteLine($"Длина отрезка {LineLength}");
+Console.WriteLine($"Расстояние между координатами двух точек {LineLength}");
