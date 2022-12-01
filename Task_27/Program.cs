@@ -29,13 +29,3 @@ int ReadInt(string msg)
     Console.Write(msg);
     return Convert.ToInt32(Console.ReadLine());
 }
-
-
-
-
-
-
-// принимает на вход число и выдаёт сумму цифр в числе. Через строку решать нельзя.
-// 452 -> 11
-// 82 -> 10
-// 9012 -> 12
