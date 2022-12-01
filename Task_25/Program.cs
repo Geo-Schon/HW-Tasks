@@ -1,9 +1,15 @@
 ﻿int num = ReadInt("Введите число: ");
 int degree = ReadInt("Введите степень: ");
+ToDegree(num, degree);
 
-Console.WriteLine($"{num} * {degree} = " + Math.Pow(num, degree));
+void ToDegree(int num, int degree)
+{
+    Console.WriteLine($"{num} в {degree} степени = " + Math.Pow(num, degree));
+}
 
-// Если вам нужно получить целое число степени, то можете сделать так:
-
-// int i = Convert.ToInt32(Math.Pow(5, 3));
+int ReadInt(string msg)
+{
+    Console.WriteLine(msg);
+    return Convert.ToInt32(Console.ReadLine());
+}
 
